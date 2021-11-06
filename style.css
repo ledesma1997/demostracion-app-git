@@ -1,0 +1,13 @@
+body{
+    color: whitesmoke;
+    background-color: black;
+    font-family: monospace;
+}
+
+h1{
+    color: black;
+    padding: 1rem;
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+}
